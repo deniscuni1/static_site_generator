@@ -1,46 +1,33 @@
-# Tolkien Fan Club
+# Denis Cuni
 
-![JRR Tolkien sitting](/images/tolkien.png)
+Third Year MSci Physics Student at Queen Mary University of London
 
-Here's the deal, **I like Tolkien**.
+Welcome to my personal website.
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
+I am a third year Physics student currently completing an integrated MSci degree at Queen Mary University of London. I am particularly interested in mathematical physics, computational modelling, and problem solving through programming.
 
-## Blog posts
+This website was generated using a static site generator that I built from scratch. The goal of the project was to understand how markdown parsing, templating, and file system traversal work.
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+## What I Do
 
-## Reasons I like Tolkien
+- Study physics
+- Build programming projects to strengthen problem solving skills
+- Explore the intersection between physics and software engineering
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
+## Current Focus
 
-## My favorite characters (in order)
+I am currently focused on:
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+- Deepening my understanding of physics
+- Strengthening my Python and Go development skills
+- Building technical projects that demonstrate both analytical and software engineering ability
 
-Here's what `elflang` looks like (the perfect coding language):
+## About me
 
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
+- [About](/blog/about)
+- [Projects](/blog/projects)
+
 
 Want to get in touch? [Contact me here](/contact).
 
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
+This site was generated with a custom-built [static site generator].
