@@ -1,6 +1,6 @@
 # Projects
 
-These are two of my latest projects:
+These are two of my latest projects on [GitHub](https://github.com/deniscuni1):
 
 ## Static Site Generator
 
@@ -10,5 +10,3 @@ These are two of my latest projects:
 ## Simple AI Agent
 
 - A simple AI Agent that works in a directory of choice, it analyses python files and debugs them.
-
-[GitHub Repository](https://github.com/deniscuni1/static_site_generator)
