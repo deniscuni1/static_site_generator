@@ -1,9 +1,9 @@
-# Contact the Author
+# Contact
 
-[< Back Home](/)
+Thank you for visiting my website.
 
-Give me a call anytime to chat about Tolkien!
+If you would like to connect or discuss opportunities, feel free to reach out.
 
-`555-555-5555`
+![LinkedIn](www.linkedin.com/in/denis-cuni-aa7598294)
 
-**"Váya márië."**
+![GitHub](https://github.com/deniscuni1)
